@@ -1,0 +1,47 @@
+body {
+  background-color: turquoise;
+}
+.container {
+    background-image: linear-gradient(to bottom right,  rgb(40, 217, 230), white);
+    display: flex;
+    border-radius: 8px;
+    height: 320px;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+  }
+    #image {
+      
+    border-radius: 50%;
+    
+}
+
+    h1 {
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      font-size: 50px;
+      align-self: center;
+    }
+
+    p {
+      font-family: cursive;
+    }
+
+.card {
+
+  display: flex;
+  border-radius: 8px;
+  height: 320px;
+  width: 100%;
+  justify-content: center;
+
+}
+h3, h4, h5{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      font-size: 30px;
+      text-align: center;
+  
+   
+
+}
+    
+
